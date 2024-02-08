@@ -129,8 +129,3 @@ function monthlySavings(arr , livingCost) {
 
 
 
-const aniK={
-    name:"sss",
-    age:23
-}
-console.log(Object.keys(aniK))
